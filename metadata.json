@@ -1,0 +1,7 @@
+{
+  "name": "Copy of D-CEP: High-Ticket Engagement Pod",
+  "description": "A premium accountability engine for high-ticket engagement groups. Enforces manual engagement verification, daily post requirements, and reciprocity tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
